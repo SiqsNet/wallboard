@@ -1,0 +1,105 @@
+E:\Programming\## KAPSCH\Wallboard Kapsch\WallBoard KApsch\WallBoard KApsch\bin\Debug\WallBoard KApsch.exe
+E:\Programming\## KAPSCH\Wallboard Kapsch\WallBoard KApsch\WallBoard KApsch\bin\Debug\WallBoard KApsch.pdb
+E:\Programming\## KAPSCH\Wallboard Kapsch\WallBoard KApsch\WallBoard KApsch\bin\Debug\WallBoard KApsch.xml
+E:\Programming\## KAPSCH\Wallboard Kapsch\WallBoard KApsch\WallBoard KApsch\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Programming\## KAPSCH\Wallboard Kapsch\WallBoard KApsch\WallBoard KApsch\obj\x86\Debug\WindowsApplication1.Form1.resources
+E:\Programming\## KAPSCH\Wallboard Kapsch\WallBoard KApsch\WallBoard KApsch\obj\x86\Debug\WindowsApplication1.Resources.resources
+E:\Programming\## KAPSCH\Wallboard Kapsch\WallBoard KApsch\WallBoard KApsch\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Programming\## KAPSCH\Wallboard Kapsch\WallBoard KApsch\WallBoard KApsch\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Programming\## KAPSCH\Wallboard Kapsch\WallBoard KApsch\WallBoard KApsch\obj\x86\Debug\WallBoard KApsch.exe
+E:\Programming\## KAPSCH\Wallboard Kapsch\WallBoard KApsch\WallBoard KApsch\obj\x86\Debug\WallBoard KApsch.xml
+E:\Programming\## KAPSCH\Wallboard Kapsch\WallBoard KApsch\WallBoard KApsch\obj\x86\Debug\WallBoard KApsch.pdb
+E:\Programming\## KAPSCH\Wallboard Kapsch\WallBoard KApsch\WallBoard KApsch\obj\x86\Debug\WindowsApplication1.Form2.resources
+C:\Documents and Settings\pikrystek\Pulpit\Wallboard Kapsch\WallBoard KApsch\WallBoard KApsch\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\pikrystek\Pulpit\Wallboard Kapsch\WallBoard KApsch\WallBoard KApsch\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\pikrystek\Pulpit\Wallboard Kapsch\WallBoard KApsch\WallBoard KApsch\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Peter Krystek\Desktop\Wallboard Kapsch\WallBoard KApsch\WallBoard KApsch\bin\Debug\WallBoard.exe
+C:\Users\Peter Krystek\Desktop\Wallboard Kapsch\WallBoard KApsch\WallBoard KApsch\bin\Debug\WallBoard.pdb
+C:\Users\Peter Krystek\Desktop\Wallboard Kapsch\WallBoard KApsch\WallBoard KApsch\bin\Debug\WallBoard.xml
+C:\Users\Peter Krystek\Desktop\Wallboard Kapsch\WallBoard KApsch\WallBoard KApsch\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Peter Krystek\Desktop\Wallboard Kapsch\WallBoard KApsch\WallBoard KApsch\obj\x86\Debug\WallBoard.WpisNo.resources
+C:\Users\Peter Krystek\Desktop\Wallboard Kapsch\WallBoard KApsch\WallBoard KApsch\obj\x86\Debug\WallBoard.Form2.resources
+C:\Users\Peter Krystek\Desktop\Wallboard Kapsch\WallBoard KApsch\WallBoard KApsch\obj\x86\Debug\WallBoard.Resources.resources
+C:\Users\Peter Krystek\Desktop\Wallboard Kapsch\WallBoard KApsch\WallBoard KApsch\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Peter Krystek\Desktop\Wallboard Kapsch\WallBoard KApsch\WallBoard KApsch\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Peter Krystek\Desktop\Wallboard Kapsch\WallBoard KApsch\WallBoard KApsch\obj\x86\Debug\WallBoard.exe
+C:\Users\Peter Krystek\Desktop\Wallboard Kapsch\WallBoard KApsch\WallBoard KApsch\obj\x86\Debug\WallBoard.xml
+C:\Users\Peter Krystek\Desktop\Wallboard Kapsch\WallBoard KApsch\WallBoard KApsch\obj\x86\Debug\WallBoard.pdb
+C:\Documents and Settings\pikrystek\Pulpit\Wallboard Kapsch\WallBoard KApsch\WallBoard KApsch\obj\x86\Debug\WallBoard.xml
+C:\Documents and Settings\pikrystek\Pulpit\Wallboard Kapsch\WallBoard KApsch\WallBoard KApsch\obj\x86\Debug\WallBoard.pdb
+C:\Documents and Settings\pikrystek\Pulpit\Wallboard Kapsch\WallBoard KApsch\WallBoard KApsch\bin\Debug\WallBoard.exe
+C:\Documents and Settings\pikrystek\Pulpit\Wallboard Kapsch\WallBoard KApsch\WallBoard KApsch\bin\Debug\WallBoard.pdb
+C:\Documents and Settings\pikrystek\Pulpit\Wallboard Kapsch\WallBoard KApsch\WallBoard KApsch\bin\Debug\WallBoard.xml
+C:\Documents and Settings\pikrystek\Pulpit\Wallboard Kapsch\WallBoard KApsch\WallBoard KApsch\obj\x86\Debug\WallBoard.WpisNo.resources
+C:\Documents and Settings\pikrystek\Pulpit\Wallboard Kapsch\WallBoard KApsch\WallBoard KApsch\obj\x86\Debug\WallBoard.Form2.resources
+C:\Documents and Settings\pikrystek\Pulpit\Wallboard Kapsch\WallBoard KApsch\WallBoard KApsch\obj\x86\Debug\WallBoard.Resources.resources
+C:\Documents and Settings\pikrystek\Pulpit\Wallboard Kapsch\WallBoard KApsch\WallBoard KApsch\obj\x86\Debug\WallBoard.exe
+C:\Documents and Settings\pikrystek\Pulpit\Wallboard Kapsch\WallBoard KApsch\WallBoard KApsch\bin\Debug\WallBoard.exe.config
+C:\Documents and Settings\pikrystek\Pulpit\Wallboard Kapsch\WallBoard KApsch\WallBoard KApsch\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Documents and Settings\pikrystek\Pulpit\Wallboard Kapsch\WallBoard KApsch\WallBoard KApsch\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+Z:\# Projekty\Wallboard Kapsch\WallBoard KApsch\WallBoard KApsch\bin\Debug\WallBoard.exe.config
+Z:\# Projekty\Wallboard Kapsch\WallBoard KApsch\WallBoard KApsch\obj\x86\Debug\WallBoard.exe
+Z:\# Projekty\Wallboard Kapsch\WallBoard KApsch\WallBoard KApsch\obj\x86\Debug\WallBoard.xml
+Z:\# Projekty\Wallboard Kapsch\WallBoard KApsch\WallBoard KApsch\obj\x86\Debug\WallBoard.pdb
+Z:\# Projekty\Wallboard Kapsch\WallBoard KApsch\WallBoard KApsch\bin\Debug\WallBoard.exe
+Z:\# Projekty\Wallboard Kapsch\WallBoard KApsch\WallBoard KApsch\bin\Debug\WallBoard.pdb
+Z:\# Projekty\Wallboard Kapsch\WallBoard KApsch\WallBoard KApsch\bin\Debug\WallBoard.xml
+Z:\# Projekty\Wallboard Kapsch\WallBoard KApsch\WallBoard KApsch\bin\Debug\Xtra Quick INI.dll
+Z:\# Projekty\Wallboard Kapsch\WallBoard KApsch\WallBoard KApsch\obj\x86\Debug\ResolveAssemblyReference.cache
+Z:\# Projekty\Wallboard Kapsch\WallBoard KApsch\WallBoard KApsch\obj\x86\Debug\WallBoard.WpisNo.resources
+Z:\# Projekty\Wallboard Kapsch\WallBoard KApsch\WallBoard KApsch\obj\x86\Debug\WallBoard.Form2.resources
+Z:\# Projekty\Wallboard Kapsch\WallBoard KApsch\WallBoard KApsch\obj\x86\Debug\WallBoard.Resources.resources
+Z:\# Projekty\Wallboard Kapsch\WallBoard KApsch\WallBoard KApsch\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+Z:\# Projekty\Wallboard Kapsch\WallBoard KApsch\WallBoard KApsch\obj\x86\Debug\GenerateResource.read.1.tlog
+Z:\# Projekty\Wallboard Kapsch\WallBoard KApsch\WallBoard KApsch\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+Z:\# Projekty\Wallboard Kapsch\WallBoard KApsch\WallBoard KApsch\obj\x86\Debug\GenerateResource.write.1.tlog
+P:\% 2015\Wallboard\NEW\WallBoard KApsch\bin\Debug\WallBoard.exe.config
+P:\% 2015\Wallboard\NEW\WallBoard KApsch\obj\x86\Debug\WallBoard.exe
+P:\% 2015\Wallboard\NEW\WallBoard KApsch\obj\x86\Debug\WallBoard.xml
+P:\% 2015\Wallboard\NEW\WallBoard KApsch\obj\x86\Debug\WallBoard.pdb
+P:\% 2015\Wallboard\NEW\WallBoard KApsch\bin\Debug\WallBoard.exe
+P:\% 2015\Wallboard\NEW\WallBoard KApsch\bin\Debug\WallBoard.pdb
+P:\% 2015\Wallboard\NEW\WallBoard KApsch\bin\Debug\WallBoard.xml
+P:\% 2015\Wallboard\NEW\WallBoard KApsch\obj\x86\Debug\WallBoard KApsch.vbprojResolveAssemblyReference.cache
+P:\% 2015\Wallboard\NEW\WallBoard KApsch\obj\x86\Debug\WallBoard.WpisNo.resources
+P:\% 2015\Wallboard\NEW\WallBoard KApsch\obj\x86\Debug\WallBoard.Form2.resources
+P:\% 2015\Wallboard\NEW\WallBoard KApsch\obj\x86\Debug\WallBoard.Resources.resources
+P:\% 2015\Wallboard\NEW\WallBoard KApsch\obj\x86\Debug\WallBoard KApsch.vbproj.GenerateResource.Cache
+P:\% 2015\Wallboard\to jest dzialajacy z licencja\WallBoard KApsch\bin\Debug\WallBoard.exe.config
+P:\% 2015\Wallboard\to jest dzialajacy z licencja\WallBoard KApsch\obj\x86\Debug\WallBoard.exe
+P:\% 2015\Wallboard\to jest dzialajacy z licencja\WallBoard KApsch\obj\x86\Debug\WallBoard.xml
+P:\% 2015\Wallboard\to jest dzialajacy z licencja\WallBoard KApsch\obj\x86\Debug\WallBoard.pdb
+P:\% 2015\Wallboard\to jest dzialajacy z licencja\WallBoard KApsch\bin\Debug\WallBoard.exe
+P:\% 2015\Wallboard\to jest dzialajacy z licencja\WallBoard KApsch\bin\Debug\WallBoard.pdb
+P:\% 2015\Wallboard\to jest dzialajacy z licencja\WallBoard KApsch\bin\Debug\WallBoard.xml
+P:\% 2015\Wallboard\to jest dzialajacy z licencja\WallBoard KApsch\obj\x86\Debug\WallBoard KApsch.vbprojResolveAssemblyReference.cache
+P:\% 2015\Wallboard\to jest dzialajacy z licencja\WallBoard KApsch\obj\x86\Debug\WallBoard.WpisNo.resources
+P:\% 2015\Wallboard\to jest dzialajacy z licencja\WallBoard KApsch\obj\x86\Debug\WallBoard.Form2.resources
+P:\% 2015\Wallboard\to jest dzialajacy z licencja\WallBoard KApsch\obj\x86\Debug\WallBoard.Resources.resources
+P:\% 2015\Wallboard\to jest dzialajacy z licencja\WallBoard KApsch\obj\x86\Debug\WallBoard KApsch.vbproj.GenerateResource.Cache
+Q:\% 2015\Wallboard\to jest dzialajacy z licencja\WallBoard KApsch\bin\Debug\WallBoard.exe.config
+Q:\% 2015\Wallboard\to jest dzialajacy z licencja\WallBoard KApsch\obj\x86\Debug\WallBoard.exe
+Q:\% 2015\Wallboard\to jest dzialajacy z licencja\WallBoard KApsch\obj\x86\Debug\WallBoard.xml
+Q:\% 2015\Wallboard\to jest dzialajacy z licencja\WallBoard KApsch\obj\x86\Debug\WallBoard.pdb
+Q:\% 2015\Wallboard\to jest dzialajacy z licencja\WallBoard KApsch\bin\Debug\WallBoard.exe
+Q:\% 2015\Wallboard\to jest dzialajacy z licencja\WallBoard KApsch\bin\Debug\WallBoard.pdb
+Q:\% 2015\Wallboard\to jest dzialajacy z licencja\WallBoard KApsch\bin\Debug\WallBoard.xml
+Q:\% 2015\Wallboard\to jest dzialajacy z licencja\WallBoard KApsch\obj\x86\Debug\WallBoard KApsch.vbprojResolveAssemblyReference.cache
+Q:\% 2015\Wallboard\to jest dzialajacy z licencja\WallBoard KApsch\obj\x86\Debug\WallBoard.WpisNo.resources
+Q:\% 2015\Wallboard\to jest dzialajacy z licencja\WallBoard KApsch\obj\x86\Debug\WallBoard.Form2.resources
+Q:\% 2015\Wallboard\to jest dzialajacy z licencja\WallBoard KApsch\obj\x86\Debug\WallBoard.Resources.resources
+Q:\% 2015\Wallboard\to jest dzialajacy z licencja\WallBoard KApsch\obj\x86\Debug\WallBoard KApsch.vbproj.GenerateResource.Cache
+C:\Users\piotr\Box\IT Projects\Wallboard\WallBoard\WallBoard KApsch\bin\Debug\WallBoard.exe.config
+C:\Users\piotr\Box\IT Projects\Wallboard\WallBoard\WallBoard KApsch\bin\Debug\WallBoard.exe
+C:\Users\piotr\Box\IT Projects\Wallboard\WallBoard\WallBoard KApsch\bin\Debug\WallBoard.pdb
+C:\Users\piotr\Box\IT Projects\Wallboard\WallBoard\WallBoard KApsch\bin\Debug\WallBoard.xml
+C:\Users\piotr\Box\IT Projects\Wallboard\WallBoard\WallBoard KApsch\obj\x86\Debug\WallBoard KApsch.vbproj.AssemblyReference.cache
+C:\Users\piotr\Box\IT Projects\Wallboard\WallBoard\WallBoard KApsch\obj\x86\Debug\WallBoard.WpisNo.resources
+C:\Users\piotr\Box\IT Projects\Wallboard\WallBoard\WallBoard KApsch\obj\x86\Debug\WallBoard.Form2.resources
+C:\Users\piotr\Box\IT Projects\Wallboard\WallBoard\WallBoard KApsch\obj\x86\Debug\WallBoard.Resources.resources
+C:\Users\piotr\Box\IT Projects\Wallboard\WallBoard\WallBoard KApsch\obj\x86\Debug\WallBoard KApsch.vbproj.GenerateResource.cache
+C:\Users\piotr\Box\IT Projects\Wallboard\WallBoard\WallBoard KApsch\obj\x86\Debug\WallBoard KApsch.vbproj.CoreCompileInputs.cache
+C:\Users\piotr\Box\IT Projects\Wallboard\WallBoard\WallBoard KApsch\obj\x86\Debug\WallBoard KApsch.vbproj.CopyComplete
+C:\Users\piotr\Box\IT Projects\Wallboard\WallBoard\WallBoard KApsch\obj\x86\Debug\WallBoard.exe
+C:\Users\piotr\Box\IT Projects\Wallboard\WallBoard\WallBoard KApsch\obj\x86\Debug\WallBoard.xml
+C:\Users\piotr\Box\IT Projects\Wallboard\WallBoard\WallBoard KApsch\obj\x86\Debug\WallBoard.pdb

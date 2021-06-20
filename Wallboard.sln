@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31402.337
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Wallboard", "WallBoard\Wallboard.vbproj", "{CA738438-2E28-4DCB-9174-045D820B661B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CA738438-2E28-4DCB-9174-045D820B661B}.Debug|x86.ActiveCfg = Debug|x86
+		{CA738438-2E28-4DCB-9174-045D820B661B}.Debug|x86.Build.0 = Debug|x86
+		{CA738438-2E28-4DCB-9174-045D820B661B}.Release|x86.ActiveCfg = Release|x86
+		{CA738438-2E28-4DCB-9174-045D820B661B}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {92EB00B4-0524-43A2-B4E9-784D3CA46DA3}
+	EndGlobalSection
+EndGlobal

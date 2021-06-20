@@ -1,0 +1,28 @@
+C:\Users\piotr\Box\IT Projects\Wallboard\WallBoard\WallBoard KApsch\bin\Debug\Wallboard.exe.config
+C:\Users\piotr\Box\IT Projects\Wallboard\WallBoard\WallBoard KApsch\bin\Debug\Wallboard.exe
+C:\Users\piotr\Box\IT Projects\Wallboard\WallBoard\WallBoard KApsch\bin\Debug\Wallboard.pdb
+C:\Users\piotr\Box\IT Projects\Wallboard\WallBoard\WallBoard KApsch\bin\Debug\Wallboard.xml
+C:\Users\piotr\Box\IT Projects\Wallboard\WallBoard\WallBoard KApsch\obj\x86\Debug\Wallboard.vbproj.AssemblyReference.cache
+C:\Users\piotr\Box\IT Projects\Wallboard\WallBoard\WallBoard KApsch\obj\x86\Debug\Wallboard.WpisNo.resources
+C:\Users\piotr\Box\IT Projects\Wallboard\WallBoard\WallBoard KApsch\obj\x86\Debug\Wallboard.Form2.resources
+C:\Users\piotr\Box\IT Projects\Wallboard\WallBoard\WallBoard KApsch\obj\x86\Debug\Wallboard.Resources.resources
+C:\Users\piotr\Box\IT Projects\Wallboard\WallBoard\WallBoard KApsch\obj\x86\Debug\Wallboard.vbproj.GenerateResource.cache
+C:\Users\piotr\Box\IT Projects\Wallboard\WallBoard\WallBoard KApsch\obj\x86\Debug\Wallboard.vbproj.CoreCompileInputs.cache
+C:\Users\piotr\Box\IT Projects\Wallboard\WallBoard\WallBoard KApsch\obj\x86\Debug\Wallboard.vbproj.CopyComplete
+C:\Users\piotr\Box\IT Projects\Wallboard\WallBoard\WallBoard KApsch\obj\x86\Debug\Wallboard.exe
+C:\Users\piotr\Box\IT Projects\Wallboard\WallBoard\WallBoard KApsch\obj\x86\Debug\Wallboard.xml
+C:\Users\piotr\Box\IT Projects\Wallboard\WallBoard\WallBoard KApsch\obj\x86\Debug\Wallboard.pdb
+C:\Users\piotr\Box\IT Projects\Wallboard\WallBoard\WallBoard\bin\Debug\Wallboard.exe.config
+C:\Users\piotr\Box\IT Projects\Wallboard\WallBoard\WallBoard\bin\Debug\Wallboard.exe
+C:\Users\piotr\Box\IT Projects\Wallboard\WallBoard\WallBoard\bin\Debug\Wallboard.pdb
+C:\Users\piotr\Box\IT Projects\Wallboard\WallBoard\WallBoard\bin\Debug\Wallboard.xml
+C:\Users\piotr\Box\IT Projects\Wallboard\WallBoard\WallBoard\obj\x86\Debug\Wallboard.vbproj.AssemblyReference.cache
+C:\Users\piotr\Box\IT Projects\Wallboard\WallBoard\WallBoard\obj\x86\Debug\Wallboard.WpisNo.resources
+C:\Users\piotr\Box\IT Projects\Wallboard\WallBoard\WallBoard\obj\x86\Debug\Wallboard.Form2.resources
+C:\Users\piotr\Box\IT Projects\Wallboard\WallBoard\WallBoard\obj\x86\Debug\Wallboard.Resources.resources
+C:\Users\piotr\Box\IT Projects\Wallboard\WallBoard\WallBoard\obj\x86\Debug\Wallboard.vbproj.GenerateResource.cache
+C:\Users\piotr\Box\IT Projects\Wallboard\WallBoard\WallBoard\obj\x86\Debug\Wallboard.vbproj.CoreCompileInputs.cache
+C:\Users\piotr\Box\IT Projects\Wallboard\WallBoard\WallBoard\obj\x86\Debug\Wallboard.vbproj.CopyComplete
+C:\Users\piotr\Box\IT Projects\Wallboard\WallBoard\WallBoard\obj\x86\Debug\Wallboard.exe
+C:\Users\piotr\Box\IT Projects\Wallboard\WallBoard\WallBoard\obj\x86\Debug\Wallboard.xml
+C:\Users\piotr\Box\IT Projects\Wallboard\WallBoard\WallBoard\obj\x86\Debug\Wallboard.pdb
